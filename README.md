@@ -3,7 +3,7 @@ Flight-Expert
 
 Python project to search flights
 
-!https://github.com/PanZhenyang/Flight-Expert/blob/master/demo.jpg
+![images](https://github.com/PanZhenyang/Flight-Expert/blob/master/demo.jpg)
 
 implementation of various search algorithms in flight search
 * IDA* with cheapest flight avaliable from current as heuristic
